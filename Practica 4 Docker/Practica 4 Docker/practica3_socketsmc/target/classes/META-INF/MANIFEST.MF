@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Elypatrikval
+Build-Jdk: 15.0.2
+Implementation-Title: Practica3_SocketsMc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Practica3_SocketsMc
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Practica3_Sock
+ etsMc/
+Created-By: Maven Integration for Eclipse
+
